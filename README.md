@@ -22,6 +22,9 @@ Generate the first snapshot of your followers (assuming they are 256):
 python3 follow_scraper.py request.txt 256
 ```
 
+![Screenshot](screenshot.png)
+
+
 Once you notice a change in your followers number, re-run the script. You may need to re-capture the HTTP request.
 
 ```sh
