@@ -1,0 +1,24 @@
+GET /api/v1/friendships/12345678/followers/?count=12&max_id=72&search_surface=follow_list_page HTTP/3
+Host: www.instagram.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+X-CSRFToken: 1-Fufsf5SFfjsf5sf8-
+X-IG-App-ID: 1232457891346789
+X-ASBD-ID: 1234567
+X-IG-WWW-Claim: hmac.AR5Fr5f8dfEgjfiA3g5fgj
+X-Web-Session-ID: f5dfdg7:f5g1fg2:8esr5
+X-Requested-With: XMLHttpRequest
+Alt-Used: www.instagram.com
+Connection: keep-alive
+Referer: https://www.instagram.com/merhametsize/followers/
+Cookie: csrftoken=1-Fufsf5SFfjsf5sf8-; datr=sf5sdf1d55dsf1; ig_did=SDF456DSF15DSF51F; mid=4SDF56SDF15DSF55SDF; sessionid=SDF56S1DF56SDF12SDF45SD1F3; ds_user_id=55481538; wd=1920x590; rur="SDFIJO\564F5DF4G8FD4G56\5456GDF45GD5F6G4DF56G45DF45G6DFG54DF5G6D1G23FG54DFG5"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+DNT: 1
+Sec-GPC: 1
+Pragma: no-cache
+Cache-Control: no-cache
+TE: trailers
