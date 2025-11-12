@@ -33,3 +33,29 @@ The two commands above generated two different snapshots, you are now able to ch
 ```sh
 python3 diff.py followers_2025111_235711.txt followers_20251212_124523.txt
 ```
+
+```
+----------------------------------------------------------------------
+Follower Difference Report Generated: 2025-11-11 23:09:28
+----------------------------------------------------------------------
+Comparison Basis:
+  - OLD Snapshot: followers_20251110_210905.txt (1271 followers)
+  - NEW Snapshot: followers_20251111_213727.txt (1273 followers)
+----------------------------------------------------------------------
+SUMMARY OF CHANGES
+------------------
+Total Lost Followers (Unfollowed): 0
+Total New Followers:             2
+Net Change in Follower Count:    +2 (Total: 1273)
+----------------------------------------------------------------------
+
+LIST OF LOST FOLLOWERS (In OLD, Not in NEW):
+----------------------------------------
+N/A - No followers were lost.
+
+
+LIST OF NEW FOLLOWERS (In NEW, Not in OLD):
+----------------------------------------
+someone1
+someone2
+```
